@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Viliusbru
 - 👀 I’m interested in Backend developement
-- 🌱 I’m currently learning Javascript, React
+- 🌱 I’m currently learning Javascript, React, PHP
 - 💞️ I’m looking to collaborate on work projects
 - 📫 How to reach me viliusbru@gmail.com
 
